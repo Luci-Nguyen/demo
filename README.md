@@ -6,3 +6,5 @@
 ✅ npx playwright test --reporter=allure-playwright
 ✅ allure serve allure-results
 
+![alt text](image.png)
+
